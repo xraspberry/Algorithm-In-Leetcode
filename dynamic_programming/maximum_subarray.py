@@ -42,9 +42,9 @@ class Solution(object):
 
             @wraps(f)
             def dec(*args):
-                if args in cache:
-                    return cache[args]
-                return f(*args)
+                if args not in cache:
+                    cache[args] = f(*args)
+                return cache[args]
 
             return dec
 
