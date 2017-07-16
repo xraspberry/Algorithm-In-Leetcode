@@ -18,7 +18,7 @@ class Codec:
     __map = {}
     base_url = "http://tinyurl.com/"
 
-    @lru_cache(maxsize=None)
+    @lru_cache()
     def encode(self, longUrl):
         """Encodes a URL to a shortened URL.
 
