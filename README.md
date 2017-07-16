@@ -4,11 +4,17 @@ To solve algorithm problems in leetcode.com using Python
 
 ![](https://img.shields.io/badge/Python-3.5-green.svg)
 
+Blog posts
+==========
+
+- [Design TinyURL](https://github.com/Microndgt/algorithm-in-Python/blob/master/blog/tinyURL.md)
+
 Dynamic Programming
 ===================
 
 - [maximum subarray](https://github.com/Microndgt/algorithm-in-Python/blob/master/dynamic_programming/maximum_subarray.py)
 - [counting bits](https://github.com/Microndgt/algorithm-in-Python/blob/master/dynamic_programming/counting_bits.py)
+- [Encode and Decode TinyURL](https://github.com/Microndgt/algorithm-in-Python/blob/master/tinyurl.py)
 
 Author
 ======
