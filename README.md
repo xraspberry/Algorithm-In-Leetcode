@@ -14,6 +14,11 @@ Dynamic Programming
 
 - [maximum subarray](https://github.com/Microndgt/algorithm-in-Python/blob/master/dynamic_programming/maximum_subarray.py)
 - [counting bits](https://github.com/Microndgt/algorithm-in-Python/blob/master/dynamic_programming/counting_bits.py)
+
+Others
+======
+
+- [Merge Two Binary Trees](https://github.com/Microndgt/algorithm-in-Python/blob/master/merge_two_trees.py)
 - [Encode and Decode TinyURL](https://github.com/Microndgt/algorithm-in-Python/blob/master/tinyurl.py)
 
 Author
