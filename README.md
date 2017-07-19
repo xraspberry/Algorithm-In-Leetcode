@@ -4,6 +4,8 @@ To solve algorithm problems in leetcode.com using Python
 
 ![](https://img.shields.io/badge/Python-3.5-green.svg)
 
+It's my leetcode account: [micron](https://leetcode.com/micron/)
+
 Blog posts
 ==========
 
@@ -23,6 +25,7 @@ Others
 - [Complex Number Multiplication](https://github.com/Microndgt/algorithm-in-Python/blob/master/ComplexNumberMultiplication.py)
 - [Average of Levels in Binary Tree](https://github.com/Microndgt/algorithm-in-Python/blob/master/AverageofLevelsinBinaryTree.py)
 - [Find Bottom Left Tree Value](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindBottomLeftTreeValue.py)
+- [Queue Reconstruction by Height](https://github.com/Microndgt/algorithm-in-Python/blob/master/QueueReconstructionbyHeight.py)
 
 Author
 ======
