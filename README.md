@@ -26,6 +26,7 @@ Others
 - [Average of Levels in Binary Tree](https://github.com/Microndgt/algorithm-in-Python/blob/master/AverageofLevelsinBinaryTree.py)
 - [Find Bottom Left Tree Value](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindBottomLeftTreeValue.py)
 - [Queue Reconstruction by Height](https://github.com/Microndgt/algorithm-in-Python/blob/master/QueueReconstructionbyHeight.py)
+- [Find All Duplicates in an Array](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindAllDuplicatesinanArray.py)
 
 Author
 ======
