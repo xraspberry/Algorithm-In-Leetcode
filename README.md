@@ -29,6 +29,7 @@ Others
 - [Queue Reconstruction by Height](https://github.com/Microndgt/algorithm-in-Python/blob/master/QueueReconstructionbyHeight.py)
 - [Find All Duplicates in an Array](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindAllDuplicatesinanArray.py)
 - [Optimal Division](https://github.com/Microndgt/algorithm-in-Python/blob/master/OptimalDivision.py)
+- [Find Largest Value in Each Tree Row](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindLargestValueinEachTreeRow.py)
 
 Author
 ======
