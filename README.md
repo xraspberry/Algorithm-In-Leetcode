@@ -28,6 +28,7 @@ Others
 - [Find Bottom Left Tree Value](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindBottomLeftTreeValue.py)
 - [Queue Reconstruction by Height](https://github.com/Microndgt/algorithm-in-Python/blob/master/QueueReconstructionbyHeight.py)
 - [Find All Duplicates in an Array](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindAllDuplicatesinanArray.py)
+- [Optimal Division](https://github.com/Microndgt/algorithm-in-Python/blob/master/OptimalDivision.py)
 
 Author
 ======
