@@ -16,6 +16,7 @@ Dynamic Programming
 
 - [maximum subarray](https://github.com/Microndgt/algorithm-in-Python/blob/master/dynamic_programming/maximum_subarray.py)
 - [counting bits](https://github.com/Microndgt/algorithm-in-Python/blob/master/dynamic_programming/counting_bits.py)
+- [Beautiful Arrangement](https://github.com/Microndgt/algorithm-in-Python/blob/master/dynamic_programming/BeautifulArrangement.py)
 
 Others
 ======
