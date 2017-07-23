@@ -40,6 +40,7 @@ Others
 - [Optimal Division](https://github.com/Microndgt/algorithm-in-Python/blob/master/OptimalDivision.py)
 - [Find Duplicate File in System](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindDuplicateFileinSystem.py)
 - [Palindromic Substrings](https://github.com/Microndgt/algorithm-in-Python/blob/master/PalindromicSubstrings.py)
+- [Teemo Attacking](https://github.com/Microndgt/algorithm-in-Python/blob/master/TeemoAttacking.py)
 
 Author
 ======
