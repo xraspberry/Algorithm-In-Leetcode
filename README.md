@@ -20,21 +20,25 @@ Dynamic Programming
 - [Arithmetic Slices](https://github.com/Microndgt/algorithm-in-Python/blob/master/dynamic_programming/ArithmeticSlices.py)
 - [Single Element in a Sorted Array](https://github.com/Microndgt/algorithm-in-Python/blob/master/dynamic_programming/SingleElementinaSortedArray.py)
 
+Tree
+====
+
+- [Average of Levels in Binary Tree](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/AverageofLevelsinBinaryTree.py)
+- [Find Largest Value in Each Tree Row](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/FindLargestValueinEachTreeRow.py)
+- [Convert BST to Greater Tree](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/ConvertBSTtoGreaterTree.py)
+- [Find Bottom Left Tree Value](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/FindBottomLeftTreeValue.py)
+- [Most Frequent Subtree Sum](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/MostFrequentSubtreeSum.py)
+- [Merge Two Binary Trees](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/merge_two_trees.py)
+
 Others
 ======
 
-- [Merge Two Binary Trees](https://github.com/Microndgt/algorithm-in-Python/blob/master/merge_two_trees.py)
 - [Encode and Decode TinyURL](https://github.com/Microndgt/algorithm-in-Python/blob/master/tinyurl.py)
 - [Complex Number Multiplication](https://github.com/Microndgt/algorithm-in-Python/blob/master/ComplexNumberMultiplication.py)
-- [Average of Levels in Binary Tree](https://github.com/Microndgt/algorithm-in-Python/blob/master/AverageofLevelsinBinaryTree.py)
-- [Find Bottom Left Tree Value](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindBottomLeftTreeValue.py)
 - [Queue Reconstruction by Height](https://github.com/Microndgt/algorithm-in-Python/blob/master/QueueReconstructionbyHeight.py)
 - [Find All Duplicates in an Array](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindAllDuplicatesinanArray.py)
 - [Optimal Division](https://github.com/Microndgt/algorithm-in-Python/blob/master/OptimalDivision.py)
-- [Find Largest Value in Each Tree Row](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindLargestValueinEachTreeRow.py)
 - [Find Duplicate File in System](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindDuplicateFileinSystem.py)
-- [Most Frequent Subtree Sum](https://github.com/Microndgt/algorithm-in-Python/blob/master/MostFrequentSubtreeSum.py)
-- [Convert BST to Greater Tree](https://github.com/Microndgt/algorithm-in-Python/blob/master/ConvertBSTtoGreaterTree.py)
 - [Palindromic Substrings](https://github.com/Microndgt/algorithm-in-Python/blob/master/PalindromicSubstrings.py)
 
 Author
