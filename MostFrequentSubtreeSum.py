@@ -19,6 +19,7 @@ class SolutionA(object):
         :type root: TreeNode
         :rtype: List[int]
         """
+        if not root: return []
         from collections import Counter
         cache = Counter()
         def tranverse(node):
@@ -38,6 +39,7 @@ class SolutionA(object):
 Runtime: 89 ms
 Your runtime beats 65.02 % of python submissions.
 
+教训就是减少赋值操作，减少循环里面执行的操作
 '''
 
 
