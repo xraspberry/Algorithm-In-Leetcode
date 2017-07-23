@@ -32,6 +32,7 @@ Others
 - [Find All Duplicates in an Array](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindAllDuplicatesinanArray.py)
 - [Optimal Division](https://github.com/Microndgt/algorithm-in-Python/blob/master/OptimalDivision.py)
 - [Find Largest Value in Each Tree Row](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindLargestValueinEachTreeRow.py)
+- [Find Duplicate File in System](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindDuplicateFileinSystem.py)
 
 Author
 ======
