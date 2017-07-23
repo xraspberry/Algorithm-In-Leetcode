@@ -41,6 +41,7 @@ Others
 - [Find Duplicate File in System](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindDuplicateFileinSystem.py)
 - [Palindromic Substrings](https://github.com/Microndgt/algorithm-in-Python/blob/master/PalindromicSubstrings.py)
 - [Teemo Attacking](https://github.com/Microndgt/algorithm-in-Python/blob/master/TeemoAttacking.py)
+- [Minimum Moves to Equal Array Elements II](https://github.com/Microndgt/algorithm-in-Python/blob/master/MinimumMovestoEqualArrayElementsII.py)
 
 Author
 ======
