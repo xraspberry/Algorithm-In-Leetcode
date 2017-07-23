@@ -29,6 +29,7 @@ Tree
 - [Find Bottom Left Tree Value](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/FindBottomLeftTreeValue.py)
 - [Most Frequent Subtree Sum](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/MostFrequentSubtreeSum.py)
 - [Merge Two Binary Trees](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/merge_two_trees.py)
+- [Construct String from Binary Tree](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/ConstructStringfromBinaryTree.py)
 
 Others
 ======
