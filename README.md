@@ -35,6 +35,7 @@ Others
 - [Find Duplicate File in System](https://github.com/Microndgt/algorithm-in-Python/blob/master/FindDuplicateFileinSystem.py)
 - [Most Frequent Subtree Sum](https://github.com/Microndgt/algorithm-in-Python/blob/master/MostFrequentSubtreeSum.py)
 - [Convert BST to Greater Tree](https://github.com/Microndgt/algorithm-in-Python/blob/master/ConvertBSTtoGreaterTree.py)
+- [Palindromic Substrings](https://github.com/Microndgt/algorithm-in-Python/blob/master/PalindromicSubstrings.py)
 
 Author
 ======
