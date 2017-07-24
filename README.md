@@ -43,6 +43,7 @@ Others
 - [Palindromic Substrings](https://github.com/Microndgt/algorithm-in-Python/blob/master/PalindromicSubstrings.py)
 - [Teemo Attacking](https://github.com/Microndgt/algorithm-in-Python/blob/master/TeemoAttacking.py)
 - [Minimum Moves to Equal Array Elements II](https://github.com/Microndgt/algorithm-in-Python/blob/master/MinimumMovestoEqualArrayElementsII.py)
+- [Single Number III](https://github.com/Microndgt/algorithm-in-Python/blob/master/SingleNumberIII.py)
 
 Author
 ======
