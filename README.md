@@ -30,6 +30,7 @@ Tree
 - [Most Frequent Subtree Sum](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/MostFrequentSubtreeSum.py)
 - [Merge Two Binary Trees](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/merge_two_trees.py)
 - [Construct String from Binary Tree](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/ConstructStringfromBinaryTree.py)
+- [Replace Words](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/ReplaceWords.py)
 
 Traverse
 ========
@@ -51,7 +52,6 @@ Others
 - [Single Number III](https://github.com/Microndgt/algorithm-in-Python/blob/master/SingleNumberIII.py)
 - [Sort Characters By Frequency](https://github.com/Microndgt/algorithm-in-Python/blob/master/SortCharactersByFrequency.py)
 - [Array Nesting](https://github.com/Microndgt/algorithm-in-Python/blob/master/ArrayNesting.py)
-- [Replace Words](https://github.com/Microndgt/algorithm-in-Python/blob/master/ReplaceWords.py)
 
 Author
 ======
