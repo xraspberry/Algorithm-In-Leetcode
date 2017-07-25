@@ -31,6 +31,11 @@ Tree
 - [Merge Two Binary Trees](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/merge_two_trees.py)
 - [Construct String from Binary Tree](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/ConstructStringfromBinaryTree.py)
 
+Traverse
+========
+
+- [Minesweeper](https://github.com/Microndgt/algorithm-in-Python/blob/master/traverse/Minesweeper.py)
+
 Others
 ======
 
