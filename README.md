@@ -10,6 +10,7 @@ Blog posts
 ==========
 
 - [Design TinyURL](https://github.com/Microndgt/algorithm-in-Python/blob/master/blog/tinyURL.md)
+- [Replace Words](https://github.com/Microndgt/algorithm-in-Python/blob/master/blog/replaceWords.md)
 
 Dynamic Programming
 ===================
