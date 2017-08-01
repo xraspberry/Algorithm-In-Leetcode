@@ -37,6 +37,7 @@ Traverse
 ========
 
 - [Minesweeper](https://github.com/Microndgt/algorithm-in-Python/blob/master/traverse/Minesweeper.py)
+- [Friend Circles](https://github.com/Microndgt/algorithm-in-Python/blob/master/traverse/FriendCircles.py)
 
 Others
 ======
