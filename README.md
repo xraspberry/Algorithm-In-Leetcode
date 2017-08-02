@@ -58,6 +58,7 @@ Others
 - [Product of Array Except Self](https://github.com/Microndgt/algorithm-in-Python/blob/master/ProductofArrayExceptSelf.py)
 - [Range Addition II](https://github.com/Microndgt/algorithm-in-Python/blob/master/RangeAdditionII.py)
 - [Top K Frequent Elements](https://github.com/Microndgt/algorithm-in-Python/blob/master/TopKFrequentElements.py)
+- [Minimum Index Sum of Two Lists](https://github.com/Microndgt/algorithm-in-Python/blob/master/MinimumIndexSumofTwoLists.py)
 
 Author
 ======
