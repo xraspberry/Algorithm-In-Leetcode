@@ -41,6 +41,11 @@ Traverse
 - [Minesweeper](https://github.com/Microndgt/algorithm-in-Python/blob/master/traverse/Minesweeper.py)
 - [Friend Circles](https://github.com/Microndgt/algorithm-in-Python/blob/master/traverse/FriendCircles.py)
 
+Linked List
+===========
+
+- [Linked List Random Node](https://github.com/Microndgt/algorithm-in-Python/blob/master/linked_list/LinkedListRandomNode.py)
+
 Others
 ======
 
