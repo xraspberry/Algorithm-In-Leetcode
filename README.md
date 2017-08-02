@@ -11,6 +11,7 @@ Blog posts
 
 - [Design TinyURL](https://github.com/Microndgt/algorithm-in-Python/blob/master/blog/tinyURL.md)
 - [Replace Words](https://github.com/Microndgt/algorithm-in-Python/blob/master/blog/replaceWords.md)
+- [Think Twice](https://github.com/Microndgt/algorithm-in-Python/blob/master/blog/thinkTwice.md)
 
 Dynamic Programming
 ===================
@@ -59,6 +60,7 @@ Others
 - [Range Addition II](https://github.com/Microndgt/algorithm-in-Python/blob/master/RangeAdditionII.py)
 - [Top K Frequent Elements](https://github.com/Microndgt/algorithm-in-Python/blob/master/TopKFrequentElements.py)
 - [Minimum Index Sum of Two Lists](https://github.com/Microndgt/algorithm-in-Python/blob/master/MinimumIndexSumofTwoLists.py)
+- [Next Greater Element II](https://github.com/Microndgt/algorithm-in-Python/blob/master/NextGreaterElementII.py)
 
 Author
 ======
