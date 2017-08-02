@@ -66,6 +66,7 @@ Others
 - [Top K Frequent Elements](https://github.com/Microndgt/algorithm-in-Python/blob/master/TopKFrequentElements.py)
 - [Minimum Index Sum of Two Lists](https://github.com/Microndgt/algorithm-in-Python/blob/master/MinimumIndexSumofTwoLists.py)
 - [Next Greater Element II](https://github.com/Microndgt/algorithm-in-Python/blob/master/NextGreaterElementII.py)
+- [Total Hamming Distance](https://github.com/Microndgt/algorithm-in-Python/blob/master/TotalHammingDistance.py)
 
 Author
 ======
