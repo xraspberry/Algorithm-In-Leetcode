@@ -34,6 +34,7 @@ Tree
 - [Construct String from Binary Tree](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/ConstructStringfromBinaryTree.py)
 - [Replace Words](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/ReplaceWords.py)
 - [Add One Row to Tree](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/AddOneRowtoTree.py)
+- [Binary Tree Inorder Traversal](https://github.com/Microndgt/algorithm-in-Python/blob/master/tree/BinaryTreeInorderTraversal.py)
 
 Traverse
 ========
