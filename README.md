@@ -71,6 +71,7 @@ Others
 - [Shuffle an Array](https://github.com/Microndgt/algorithm-in-Python/blob/master/ShuffleanArray.py)
 - [Fraction Addition and Subtraction](https://github.com/Microndgt/algorithm-in-Python/blob/master/FractionAdditionandSubtraction.py)
 - [4Sum II](https://github.com/Microndgt/algorithm-in-Python/blob/master/4SumII.py)
+- [Diagonal Traverse](https://github.com/Microndgt/algorithm-in-Python/blob/master/DiagonalTraverse.py)
 
 Author
 ======
