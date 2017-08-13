@@ -21,6 +21,7 @@ Dynamic Programming
 - [Beautiful Arrangement](https://github.com/Microndgt/algorithm-in-Python/blob/master/dynamic_programming/BeautifulArrangement.py)
 - [Arithmetic Slices](https://github.com/Microndgt/algorithm-in-Python/blob/master/dynamic_programming/ArithmeticSlices.py)
 - [Single Element in a Sorted Array](https://github.com/Microndgt/algorithm-in-Python/blob/master/dynamic_programming/SingleElementinaSortedArray.py)
+- [Count Numbers with Unique Digits](https://github.com/Microndgt/algorithm-in-Python/blob/master/dynamic_programming/CountNumberswithUniqueDigits.py)
 
 Tree
 ====
@@ -74,6 +75,7 @@ Others
 - [4Sum II](https://github.com/Microndgt/algorithm-in-Python/blob/master/others/4SumII.py)
 - [Diagonal Traverse](https://github.com/Microndgt/algorithm-in-Python/blob/master/others/DiagonalTraverse.py)
 - [Integer Break](https://github.com/Microndgt/algorithm-in-Python/blob/master/others/IntegerBreak.py)
+- [Minimum Time Difference](https://github.com/Microndgt/algorithm-in-Python/blob/master/others/MinimumTimeDifference.py)
 
 Author
 ======
