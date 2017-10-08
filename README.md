@@ -77,6 +77,13 @@ Others
 - [Integer Break](https://github.com/Microndgt/algorithm-in-Python/blob/master/others/IntegerBreak.py)
 - [Minimum Time Difference](https://github.com/Microndgt/algorithm-in-Python/blob/master/others/MinimumTimeDifference.py)
 
+剑指offer题目
+=========
+
+- [二维数组的查找](https://github.com/Microndgt/algorithm-in-Python/blob/master/sword_offer/search_in_two_divide_arrays.py)
+- [从尾到头打印链表](https://github.com/Microndgt/algorithm-in-Python/blob/master/sword_offer/reverse_print_linked_list.py)
+- [重建二叉树](https://github.com/Microndgt/algorithm-in-Python/blob/master/sword_offer/construct_tree.py)
+
 Author
 ======
 
