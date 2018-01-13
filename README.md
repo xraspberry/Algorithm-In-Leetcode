@@ -1,10 +1,24 @@
-# algorithm-in-Python
+# Algorithm-In-Leetcode
 
-To solve algorithm problems in leetcode.com using Python
+To solve algorithm problems in leetcode.com using Python and Golang
 
 ![](https://img.shields.io/badge/Python-3.5-green.svg)
+![](https://img.shields.io/badge/Golang-1.9.2-green.svg)
 
 It's my leetcode account: [micron](https://leetcode.com/micron/)
+
+不仅仅是Algorithm，还有Database的题目也包含在内。题目更新顺序是按照`Difficulty`从简单到难排序的。
+
+Algorithm
+===
+
+- [Hamming Distance](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm/Hamming-Distance/README.md)
+- [Judge Route Circle](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm/Judge-Route-Circle/README.md)
+
+Database
+===
+
+- [Second Highest Salary](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm/Second-Highest-Salary.sql) [题目链接](https://leetcode.com/problems/second-highest-salary/description/)
 
 Blog posts
 ==========
