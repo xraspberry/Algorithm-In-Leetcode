@@ -1,6 +1,6 @@
 # Algorithm-In-Leetcode
 
-To solve algorithm problems in leetcode.com using Python and Golang
+To solve algorithm problems in leetcode.com using Python, Golang and SQL
 
 ![](https://img.shields.io/badge/Python-3.5-green.svg)
 ![](https://img.shields.io/badge/Golang-1.9.2-green.svg)
@@ -18,7 +18,25 @@ Algorithm
 Database
 ===
 
-- [Second Highest Salary](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm/Second-Highest-Salary.sql) [题目链接](https://leetcode.com/problems/second-highest-salary/description/)
+- [Second Highest Salary](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Second-Highest-Salary.sql) [题目链接](https://leetcode.com/problems/second-highest-salary/description/)
+- [Combine Two Tables](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Combine-Two-Tables.sql) [题目链接](https://leetcode.com/problems/combine-two-tables/description/)
+- [Big Countries](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Big-Countries.sql) [题目链接](https://leetcode.com/problems/big-countries/description/)
+- [Swap Salary](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Swap-Salary.sql) [题目链接](https://leetcode.com/problems/swap-salary/description/)
+- [Not Boring Movies](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Not-Boring-Movies.sql) [题目链接](https://leetcode.com/problems/not-boring-movies/description/)
+- [Duplicate Emails](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Duplicate-Emails.sql) [题目链接](https://leetcode.com/problems/duplicate-emails/description/)
+- [Employees Earning More Than Their Managers](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Employees-Earning-More-Than-Their-Managers.sql) [题目链接](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)
+- [Customers Who Never Order](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Customers-Who-Never-Order.sql) [题目链接](https://leetcode.com/problems/customers-who-never-order/description/)
+- [Rising Temperature](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Rising-Temperature.sql) [题目链接](https://leetcode.com/problems/rising-temperature/description/)
+- [Classes More Than 5 Students](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Classes-More-Than-5-Students.sql) [题目链接](https://leetcode.com/problems/classes-more-than-5-students/description/)
+- [Delete Duplicate Emails](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Delete-Duplicate-Emails.sql) [题目链接](https://leetcode.com/problems/delete-duplicate-emails/description/)
+- [Exchange Seats](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Exchange-Seats.sql) [题目链接](https://leetcode.com/problems/exchange-seats/description/)
+- [Rank Scores](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Rank-Scores.sql) [题目链接](https://leetcode.com/problems/rank-scores/description/)
+- [Consecutive Numbers](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Consecutive-Numbers.sql) [题目链接](https://leetcode.com/problems/consecutive-numbers/description/)
+- [Department Highest Salary](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Department-Highest-Salary.sql) [题目链接](https://leetcode.com/problems/department-highest-salary/description/)
+- [Nth Highest Salary](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Nth-Highest-Salary.sql) [题目链接]()
+- [Human Traffic of Stadium](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Human-Traffic-of-Stadium.sql) [题目链接](https://leetcode.com/problems/human-traffic-of-stadium/description/)
+- [Department Top Three Salaries](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Department-Top-Three-Salaries.sql) [题目链接](https://leetcode.com/problems/department-top-three-salaries/description/)
+- [Trips and Users](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Trips-and-Users.sql) [题目链接](https://leetcode.com/problems/trips-and-users/)
 
 Blog posts
 ==========
