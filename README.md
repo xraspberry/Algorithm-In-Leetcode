@@ -9,13 +9,13 @@ It's my leetcode account: [micron](https://leetcode.com/micron/)
 
 不仅仅是Algorithm，还有Database的题目也包含在内。题目更新顺序是按照`Difficulty`从简单到难排序的。
 
-Algorithm
+[Algorithm](https://leetcode.com/problemset/algorithms/)
 ===
 
 - [Hamming Distance](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm/Hamming-Distance/README.md)
 - [Judge Route Circle](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm/Judge-Route-Circle/README.md)
 
-Database
+[Database](https://leetcode.com/problemset/database/)
 ===
 
 - [Second Highest Salary](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/database/Second-Highest-Salary.sql) [题目链接](https://leetcode.com/problems/second-highest-salary/description/)
