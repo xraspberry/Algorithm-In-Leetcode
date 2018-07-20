@@ -7,7 +7,11 @@ To solve algorithm problems in leetcode.com using Python, Golang and SQL
 
 It's my leetcode account: [micron](https://leetcode.com/micron/)
 
+这是我的LeetCode中文账户: [skyrover](https://leetcode-cn.com/skyrover/)
+
 不仅仅是Algorithm，还有Database的题目也包含在内。题目更新顺序是按照`Difficulty`从简单到难排序的。
+
+LeetCode 每日一题: [Leetcode Everyday](http://skyrover.me/2018/07/18/leetcode_every_day/)
 
 [Algorithm](https://leetcode.com/problemset/algorithms/)
 ===
