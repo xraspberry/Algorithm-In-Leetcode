@@ -11,7 +11,7 @@ It's my leetcode account: [micron](https://leetcode.com/micron/)
 
 不仅仅是Algorithm，还有Database的题目也包含在内。题目更新顺序是按照`Difficulty`从简单到难排序的。
 
-LeetCode 每日一题: [Leetcode Everyday](http://skyrover.me/2018/07/18/leetcode_every_day/)
+LeetCode 每日一题: [Leetcode Everyday](http://skyrover.me/2018/07/25/leetcode_every_day/)
 
 [Algorithm](https://leetcode.com/problemset/algorithms/)
 ===
