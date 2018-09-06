@@ -13,6 +13,13 @@ It's my leetcode account: [micron](https://leetcode.com/micron/)
 
 LeetCode 每日一题: [Leetcode Everyday](http://skyrover.me/2018/07/25/leetcode_every_day/)
 
+一些常用算法
+======
+
+1. [最小生成树MST->Prim算法](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/mst/prim.py)
+2. [最小生成树MST->Kruskal算法](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/mst/kruskal.py)
+3. [单源最短路径->Dijkstra算法](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/shortest_path/dijkstra.py)
+
 [Algorithm](https://leetcode.com/problemset/algorithms/)
 ===
 
