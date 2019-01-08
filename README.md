@@ -16,7 +16,8 @@ LeetCode 每日一题: [Leetcode Everyday](http://skyrover.me/2018/07/25/leetcod
 Algorithm In 2019
 =================
 
-1. [929. 独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_every_day/unique_email_addresses.py)
+1. [929. 独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_2019/unique_email_addresses.py)
+1. [961. 重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_2019/n-repeated-element-in-size-2n-array.py)
 
 一些常用算法
 ======
