@@ -15,6 +15,18 @@ LeetCode 每日一题: [Leetcode Everyday](http://skyrover.me/2018/07/25/leetcod
 
 Algorithm In 2019
 =================
+    
+2019年5月
+---
+
+1. [1021. 删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_2019/remove-outermost-parentheses.py)
+1. [938. 二叉搜索树的范围和](https://leetcode-cn.com/problems/rrange-sum-of-bst/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_2019/range-sum-of-bst.py)
+1. [944. 删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_2019/delete-columns-to-make-sorted.py)
+1. [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_2019/fibonacci-number.py)
+1. [908. 最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_2019/smallest-range-i.py)
+1. [965. 单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_2019/univalued-binary-tree.py)
+1. [1002. 查找常用字符](https://leetcode-cn.com/problems/find-common-characters/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_2019/find-common-characters.py)
+1. [999. 车的可用捕获量](https://leetcode-cn.com/problems/available-captures-for-rook/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_2019/available-captures-for-rook.py)
 
 2019年1月
 -------
