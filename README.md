@@ -13,6 +13,11 @@ It's my leetcode account: [micron](https://leetcode.com/micron/)
 
 LeetCode 每日一题: [Leetcode Everyday](http://skyrover.me/2018/07/25/leetcode_every_day/)
 
+Ruby
+===
+
+1. [771. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/jewels-and-stones.rb)
+
 Algorithm In 2019
 =================
     
@@ -27,6 +32,7 @@ Algorithm In 2019
 1. [965. 单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_2019/univalued-binary-tree.py)
 1. [1002. 查找常用字符](https://leetcode-cn.com/problems/find-common-characters/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_2019/find-common-characters.py)
 1. [999. 车的可用捕获量](https://leetcode-cn.com/problems/available-captures-for-rook/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_2019/available-captures-for-rook.py)
+1. [1051. 高度检查器](https://leetcode-cn.com/problems/height-checker/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/algorithm_2019/height-checker.py)
 
 2019年1月
 -------
