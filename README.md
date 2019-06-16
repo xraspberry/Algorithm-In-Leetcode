@@ -18,6 +18,7 @@ Ruby
 
 1. [771. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/jewels-and-stones.rb)
 1. [1021. 删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/remove-outermost-parentheses.rb)
+1. [938. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/range-sum-of-bst.rb)
 
 Algorithm In 2019
 =================
