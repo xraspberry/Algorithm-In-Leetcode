@@ -22,6 +22,11 @@ Ruby
 1. [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/delete-node-in-a-linked-list.rb)
 1. [709. 转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/to-lower-case.rb)
 1. [832. 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/flipping-an-image.rb)
+1. [804. 唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/unique-morse-code-words.rb)
+1. [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/merge-two-binary-trees.rb)
+1. [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/squares-of-a-sorted-array.rb)
+1. [657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/robot-return-to-origin.rb)
+1. [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/hamming-distance.rb)
 
 Algorithm In 2019
 =================
