@@ -27,6 +27,10 @@ Ruby
 1. [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/squares-of-a-sorted-array.rb)
 1. [657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/robot-return-to-origin.rb)
 1. [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/hamming-distance.rb)
+1. [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/invert-binary-tree.rb)
+1. [1051. 高度检查器](https://leetcode-cn.com/problems/height-checker/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/iheight-checker.rb)
+1. [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/maximum-depth-of-binary-tree.rb)
+1. [942. 增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/di-string-match.rb)
 
 Algorithm In 2019
 =================
