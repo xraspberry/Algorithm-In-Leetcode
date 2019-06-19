@@ -31,6 +31,17 @@ Ruby
 1. [1051. 高度检查器](https://leetcode-cn.com/problems/height-checker/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/iheight-checker.rb)
 1. [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/maximum-depth-of-binary-tree.rb)
 1. [942. 增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/di-string-match.rb)
+1. [292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/nim-game.rb)
+1. [728. 自除数](https://leetcode-cn.com/problems/self-dividing-numbers/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/self-dividing-numbers.rb)
+1. [852. 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/peak-index-in-a-mountain-array.rb)
+1. [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/search-in-a-binary-search-tree.rb)
+1. [476. 数字的补数](https://leetcode-cn.com/problems/number-complement/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/number-complement.rb)
+1. [905. 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/sort-array-by-parity.rb)
+1. [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/reverse-string.rb)
+1. [933. 最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/number-of-recent-calls.rb)
+1. [500. 键盘行](https://leetcode-cn.com/problems/keyboard-row/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/keyboard-row.rb)
+1. [961. 重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/n-repeated-element-in-size-2n-array.rb)
+1. [929. 独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/unique-email-addresses.rb)
 
 Algorithm In 2019
 =================
