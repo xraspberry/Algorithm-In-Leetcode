@@ -42,6 +42,8 @@ Ruby
 1. [500. 键盘行](https://leetcode-cn.com/problems/keyboard-row/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/keyboard-row.rb)
 1. [961. 重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/n-repeated-element-in-size-2n-array.rb)
 1. [929. 独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/unique-email-addresses.rb)
+1. [944. 删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/delete-columns-to-make-sorted.rb)
+1. [561. 数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/array-partition-i.rb)
 
 Algorithm In 2019
 =================
