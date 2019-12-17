@@ -44,6 +44,11 @@ Ruby
 1. [929. 独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/unique-email-addresses.rb)
 1. [944. 删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/delete-columns-to-make-sorted.rb)
 1. [561. 数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/array-partition-i.rb)
+1. [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/reverse-words-in-a-string-iii.rb)
+1. [908. 最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/smallest-range-i.rb)
+1. [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/fibonacci-number.rb)
+1. [965. 单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/univalued-binary-tree.rb)
+1. [1025. 除数博弈](https://leetcode-cn.com/problems/divisor-game/): [答案](https://github.com/Microndgt/Algorithm-In-Leetcode/blob/master/Ruby/divisor-game.rb)
 
 Algorithm In 2019
 =================
